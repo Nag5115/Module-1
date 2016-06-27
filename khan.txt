@@ -1,0 +1,10 @@
+Git has many advantages over earlier systems such as CVS and Subversion
+More efficient, better workflow, etc.
+See the literature for an extensive list of reasons
+Of course, there are always those who disagree
+Best competitor: Mercurial
+I like Mercurial better
+Same concepts, slightly simpler to use
+In my (very limited) experience, the Eclipse plugin is easier to install and use
+Much less popular than Git
+
