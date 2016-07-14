@@ -7,4 +7,5 @@ I like Mercurial better
 Same concepts, slightly simpler to use
 In my (very limited) experience, the Eclipse plugin is easier to install and use
 Much less popular than Git
+hi new line for new life
 
